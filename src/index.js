@@ -1,6 +1,5 @@
 import './sass/main.scss';
 import Notiflix from 'notiflix';
-// import photoCard from './partials/photoCard.hbs'
 import markUp from './js/photoTpl';
 import makeSearch from './js/search.js';
 import { config } from './js/config';

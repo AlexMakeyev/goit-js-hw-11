@@ -1,4 +1,4 @@
-// import photoCardTpl from '../partials/photoCard.hbs'
+
 export default function markUp({ webformatURL, tags, likes, views, comments, downloads }) {
     
    
